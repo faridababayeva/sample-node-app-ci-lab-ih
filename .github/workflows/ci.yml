@@ -60,3 +60,4 @@ jobs:
           imageToDeploy: ${{ secrets.DOCKERHUB_USERNAME }}/frontendapp:latest
           resourceGroup: container-labs-rg
           containerAppName: frontendapp
+# New Lab Update
